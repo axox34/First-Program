@@ -2,6 +2,7 @@
 First Program circa July 2018
 
 Look in Outlook email for particular files sent by customer. Download the files and process according to needs by Sales Team
+Used pyinstaller to create exe but possibly had some deprecation issues after release to Sales.
 1: search emails
 2: download the text file
 3: copy the values in the text file into an excel file
